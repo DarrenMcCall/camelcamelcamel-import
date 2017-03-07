@@ -1,2 +1,6 @@
 # camelcamelcamel-import
-Import Amazon Standard Identification Numbers (ASINs) on camelcamelcamel.com
+Import Amazon Standard Identification Numbers (ASIN) on camelcamelcamel.com
+
+mechanize and lxml are required:
+```pip install mechanize
+pip install lxml```
